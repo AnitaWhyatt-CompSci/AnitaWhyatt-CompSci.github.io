@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name in Anita Whyatt I am a student at WSU Tri-Cities and an Intern at Marcraft.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I hope you will enjoy this blog as you take the journey of my summer internship alongside me.  Hopefully we will both learn new things and have fun while we are at it.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+anita.whyatt@wsu.edu
