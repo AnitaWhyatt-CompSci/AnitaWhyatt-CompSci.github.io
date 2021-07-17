@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Hello World, This is a Test of my Blogging System!
+title: Entry 00 Blog Test
 ---
-Hello World!
-
-This is my very first blog post.
-If you're reading this then that means it worked!
+Test 1-2-3 Test 1-2-3
+If you're reading this the blog is working.
 
 -Anita Whyatt
 06/05/2021
